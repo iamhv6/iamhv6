@@ -1,12 +1,22 @@
 ### Welcome to my profile
 
+[<img src="https://komarev.com/ghpvc/?username=iamhv6&color=green" align="right" />](https://github.com/iamhv6) 
+‎ 
+
 ![image](https://github.com/user-attachments/assets/c2d6a33c-3333-4f65-85ea-d4fa9eb34344)
+
+
+#### Connections  
+
+
+[<img src="https://github.com/user-attachments/assets/ed4daa8b-1486-43ee-a777-2257bde1ceaa">](https://steamcommunity.com/profiles/76561199166821147/)
+
 
 ### Gist Profile
 
 
-![cropped_image](https://github.com/user-attachments/assets/ac3c10a9-0560-4d23-99d6-3cfb668d289d)
-
+<img src="https://github.com/user-attachments/assets/ac3c10a9-0560-4d23-99d6-3cfb668d289d" width="15" height="14" /> iamhv6
+   
 
  [YTvideo](https://gist.github.com/iamhv6/ce9d99b6aebc958fcda9ee56628bd544) 
  
