@@ -28,7 +28,7 @@ function getYTVideoDetails() {
         const title = document.querySelector("title").textContent.replace(" - YouTube", "");
         const description = document.querySelector('ytd-text-inline-expander span.yt-core-attributed-string').textContent.trim();
         const views = document.querySelector("ytd-watch-info-text #info-container #info").textContent.split('views')[0].trim();
-        const uploadDate = uploadDateString.split('views')[1].trim().split('#')[0].trim();
+        const uploadDate = document.querySelector("ytd-watch-info-text #info-container #info").textContent.split('views')[1].trim();
         const channelName = document.querySelector("#owner #channel-name #container #text-container #text").title;
 
         return {
