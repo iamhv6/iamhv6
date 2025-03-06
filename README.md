@@ -9,7 +9,7 @@
 #### Connections  
 
 
-[<img src="https://github.com/user-attachments/assets/ed4daa8b-1486-43ee-a777-2257bde1ceaa">](https://steamcommunity.com/profiles/76561199166821147/)
+[<img src="https://github.com/user-attachments/assets/fe923bb9-aebf-46c8-86e5-79f345a103ac">](https://steamcommunity.com/profiles/76561199166821147/)
 
 
 ### Gist Profile
